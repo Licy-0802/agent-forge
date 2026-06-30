@@ -1,7 +1,7 @@
 ---
 name: project-orchestrator
 description: >-
-  定义主理人(Principal)、产品转需求(Product-to-Requirements)、开发(Developer)、测试(Tester)四个角色及其协同工作流，解决多项目并行开发中的资源分配、优先级管理和进度追踪问题。当需要管理多个并行项目、建立标准化开发流程、或多角色协作时使用此 skill。
+  Multi-agent workflow for Codex: a Principal orchestrates Product-to-Requirements, Developer, and Tester agents through parallel project pipelines. 四个角色（主理人／产需／开发／测试）协同工作，解决多项目并行开发中的资源分配、优先级管理和进度追踪问题。
 ---
 
 # 多项目管理 · 四角色协同工作流

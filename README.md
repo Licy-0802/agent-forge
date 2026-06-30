@@ -113,3 +113,9 @@ agent-forge/
 ## License
 
 MIT
+
+---
+
+## Note on language
+
+The system prompt files in `references/` are written in **Chinese** by design — this project targets Chinese-speaking development teams who write PRDs and technical specs in Chinese. The README, SKILL.md description, and code comments are in English for discoverability.
