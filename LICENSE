@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026
+Copyright (c) 2026 Licy-0802
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,11 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-ENDLICLEASE
-
-# Also copy openai.yaml if it's relevant
-cp /Users/licy/.cc-switch/skills/agents/agents/openai.yaml /Users/licy/Documents/Codex/2026-06-30/new-chat/outputs/agent-forge/agents/ 2>/dev/null || echo "(no agents dir, skipping)"
-
-echo ""
-echo "=== 最终目录结构 ==="
-find /Users/licy/Documents/Codex/2026-06-30/new-chat/outputs/agent-forge -type f | sort
